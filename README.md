@@ -14,7 +14,7 @@ Ollm Bridge is a simple tool designed to streamline the process of accessing Oll
 ## Credits
 * Thanks to [Matt Williams](https://github.com/technovangelist) for [inspiration](https://youtu.be/UfhXbwA5thQ?si=ML8x01C26kNStTJw)
 * Thanks to [MScholtes](https://github.com/MScholtes) for the [PS2EXE](https://github.com/MScholtes/PS2EXE) module
-* Code written primarly by Beyonder 24B 5_K_M (LMStudio, Ryzen 5 2600x, GTX 960)
+* Code written primarly by Beyonder 24B 5_K_M (LMStudio, Ryzen 5 3600x, GTX 960)
 
 
 #####             README written by Aidain, an AI Assistant
